@@ -1,0 +1,2 @@
+//movimentação
+y = y - velo;
